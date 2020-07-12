@@ -13,6 +13,3 @@ def compara_arrays(array_1, array_2)
     return average_array_2
   end
 end
-
-visitas = [500,1000,1500,2000]
-numeros = [1,2,3,4,5]
